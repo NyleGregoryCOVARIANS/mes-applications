@@ -1,0 +1,10 @@
+debug/alimentation.o
+debug/communication.o
+debug/relevermesure.o
+debug/threadmesure.o
+debug/fenetreconnexion.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_relevermesure.o
+debug/moc_fenetreconnexion.o
+debug/moc_mainwindow.o
