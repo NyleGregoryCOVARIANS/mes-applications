@@ -1,0 +1,10 @@
+release/alimentation.o
+release/communication.o
+release/relevermesure.o
+release/threadmesure.o
+release/fenetreconnexion.o
+release/main.o
+release/mainwindow.o
+release/moc_relevermesure.o
+release/moc_fenetreconnexion.o
+release/moc_mainwindow.o

@@ -1,0 +1,12 @@
+release/communication.o
+release/controleinstrument.o
+release/qcustomplot.o
+release/relevermesure.o
+release/fenetreconnexion.o
+release/main.o
+release/mainwindow.o
+release/moc_controleinstrument.o
+release/moc_qcustomplot.o
+release/moc_relevermesure.o
+release/moc_fenetreconnexion.o
+release/moc_mainwindow.o

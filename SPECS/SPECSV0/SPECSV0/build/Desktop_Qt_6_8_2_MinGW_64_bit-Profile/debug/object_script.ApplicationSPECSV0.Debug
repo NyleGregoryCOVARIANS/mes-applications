@@ -1,0 +1,10 @@
+debug/communication.o
+debug/controleinstrument.o
+debug/relevermesure.o
+debug/fenetreconnexion.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_controleinstrument.o
+debug/moc_relevermesure.o
+debug/moc_fenetreconnexion.o
+debug/moc_mainwindow.o
